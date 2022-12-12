@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main{
+  background-image: url("https://media.istockphoto.com/id/1218271661/photo/corona-virus-covid-19-blue.jpg?s=612x612&w=0&k=20&c=zCksxoPvdoSum4yJUPr5CKbzm3Mc7xykKMPghU9jJ7E=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.sp1{
+  font-size: medium;
+  color: rgb(253, 250, 246);
+}
+
+.tit1{
+  font-size: xx-large;
+}
+
+.mycard:hover{
+  transform: scale(0.8);
+  transition-duration: 0.5s;
+}
